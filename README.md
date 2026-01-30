@@ -65,3 +65,4 @@ Automatický commit č. 13
 Automatický commit č. 14
 Automatický commit č. 15
 Automatický commit č. 16
+Automatický commit č. 17
