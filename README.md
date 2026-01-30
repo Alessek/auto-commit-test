@@ -122,3 +122,4 @@ Další automatický commit č. 20
 Další automatický commit č. 21
 Další automatický commit č. 22
 Další automatický commit č. 23
+Další automatický commit č. 24
