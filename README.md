@@ -100,3 +100,4 @@ Automatický commit č. 48
 Automatický commit č. 49
 Automatický commit č. 50
 Další automatický commit č. 1
+Další automatický commit č. 2
