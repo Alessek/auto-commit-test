@@ -87,3 +87,4 @@ Automatický commit č. 35
 Automatický commit č. 36
 Automatický commit č. 37
 Automatický commit č. 38
+Automatický commit č. 39
