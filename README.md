@@ -75,3 +75,4 @@ Automatický commit č. 23
 Automatický commit č. 24
 Automatický commit č. 25
 Automatický commit č. 26
+Automatický commit č. 27
