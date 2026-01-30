@@ -126,3 +126,4 @@ Další automatický commit č. 24
 Další automatický commit č. 25
 Další automatický commit č. 26
 Další automatický commit č. 27
+Další automatický commit č. 28
