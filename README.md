@@ -70,3 +70,4 @@ Automatický commit č. 18
 Automatický commit č. 19
 Automatický commit č. 20
 Automatický commit č. 21
+Automatický commit č. 22
