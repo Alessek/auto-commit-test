@@ -57,3 +57,4 @@ Automatický commit č. 5
 Automatický commit č. 6
 Automatický commit č. 7
 Automatický commit č. 8
+Automatický commit č. 9
