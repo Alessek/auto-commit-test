@@ -79,3 +79,4 @@ Automatický commit č. 27
 Automatický commit č. 28
 Automatický commit č. 29
 Automatický commit č. 30
+Automatický commit č. 31
