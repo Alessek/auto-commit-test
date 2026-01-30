@@ -106,3 +106,4 @@ Další automatický commit č. 4
 Další automatický commit č. 5
 Další automatický commit č. 6
 Další automatický commit č. 7
+Další automatický commit č. 8
